@@ -42,14 +42,14 @@ OwnYourFeed is a browser extension that **completely replaces** YouTube's algori
 
 ## Screenshots
 <img width="1904" height="1027" alt="sshot1_before" src="https://github.com/user-attachments/assets/36e7ffe5-8653-461b-8110-72ac76920f19" />
-All distracting recommendations without OwnYourFeed <br>
-
+All distracting recommendations without OwnYourFeed.
+<br><br>
 <img width="1915" height="1031" alt="sshot2_after" src="https://github.com/user-attachments/assets/260d6fe6-6b7b-4702-b278-7788621af7c7" />
 As soon as you turn on OwnYourFeed it starts its magic of just showing you what you need to see with 0 distractions.
-
+<br><br>
 <img width="1180" height="747" alt="sshot3_divides pageintotopics" src="https://github.com/user-attachments/assets/1ad46b92-7b11-4228-b017-d0bc8576e79a" />
 Subdivides each topic and scrapes the best video from the algorithm.
-
+<br><br>
 
 
 ---
@@ -58,7 +58,7 @@ Subdivides each topic and scrapes the best video from the algorithm.
 
 ### From Chrome Web Store
 
-<!-- [Install OwnYourFeed](https://chrome.google.com/webstore/detail/YOUR_ID) -->
+<!-- [Install OwnYourFeed](https://chrome.google.com/webstore/detail/nishhhannt27) -->
 
 Coming soon.
 
