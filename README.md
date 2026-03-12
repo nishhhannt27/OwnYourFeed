@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icons/icon128.png" alt="OwnYourFeed" width="80" />
+  <img src="https://github.com/user-attachments/assets/52f49a77-db2a-4e30-9fb0-c850c3a6aea3" alt="OwnYourFeed" width="80" />
 </p>
 
 <h1 align="center">OwnYourFeed</h1>
