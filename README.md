@@ -42,7 +42,7 @@ OwnYourFeed is a browser extension that **completely replaces** YouTube's algori
 
 ## Screenshots
 <img width="1904" height="1027" alt="sshot1_before" src="https://github.com/user-attachments/assets/36e7ffe5-8653-461b-8110-72ac76920f19" />
-All distracting recommendations without OwnYourFeed
+All distracting recommendations without OwnYourFeed /n
 
 <img width="1915" height="1031" alt="sshot2_after" src="https://github.com/user-attachments/assets/260d6fe6-6b7b-4702-b278-7788621af7c7" />
 As soon as you turn on OwnYourFeed it starts its magic of just showing you what you need to see with 0 distractions.
